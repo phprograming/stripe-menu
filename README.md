@@ -1,6 +1,4 @@
-[![HitCount](https://hits.dwyl.com/phprograming/
-stripe-menu.svg)](https://hits.dwyl.com/phprograming/
-stripe-menu)
+[![HitCount](https://hits.dwyl.com/phprograming/stripe-menu.svg)](https://hits.dwyl.com/phprograming/stripe-menu)
 
 ![stripe-menu](stripe-menu.JPG)
 
