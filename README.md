@@ -18,10 +18,6 @@
 - [x] Styled Components
 - [x] Framer Motion
 
-## Ideas to implement
-
-- [ ] Same Stripe left-right animation
-
 ## Usage
 
 1. Run `npm install` or `yarn install`.<br />
